@@ -1,18 +1,21 @@
-#102030
-&1
+#&!102030
+&#!1.jpg,1,550,1270
+id:x1
 Yes you heard that right! Freedom Month Offers get a new name and a new validity period in the form of Azaadi Se Diwali Tak Offers that will run from 1st September to 30th October 2020. 
 
 So go ahead and grab this opportunity now!
 
 To know more, call
 -
-&2
+&#!2.jpg,1,522,1270
+id:x2
 Start the month of September on an amazing note as Freedom Month Offers get a new name and a new validity period in the form of Azaadi Se Diwali Tak Offers that will run from 1st September to 30th October 2020. 
 
 So go ahead and grab this opportunity now!
 
 To know more, call
 -
+id:x3
 Freedom Month Offers Extended Till 30th Oct as Azaadi Se Diwali Tak Offers!
 Become an IBC & get Solopreneur Course Worth ₹19500*
 ABSOLUTELY FREE!!!
@@ -22,6 +25,7 @@ Make a One Time Payment of ₹59,500* & Get 2 Extra Problem Solving Courses Free
 EMI Plan(Credit) also available at ₹66,000*
 To Know more, Call !
 -
+id:x4
 Freedom Month Offers Extended Till 30th Oct as Azaadi Se Diwali Tak Offers!
 Buy Everything About Entrepreneurship Course and get 3 Problem Solving Courses
 - Pocket Money to Professional Salary Course (Worth ₹19,000*)                          
