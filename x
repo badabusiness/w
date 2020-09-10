@@ -1,4 +1,12 @@
 #&!102030
+&#!3.jpg,1,520,1270
+id:x3
+call
+-
+&#!4.jpg,1,495,1275
+id:x4
+call
+-
 &#!1.jpg,1,550,1270
 id:x1
 Yes you heard that right! Freedom Month Offers get a new name and a new validity period in the form of Azaadi Se Diwali Tak Offers that will run from 1st September to 30th October 2020. 
