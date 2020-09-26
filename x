@@ -78,3 +78,40 @@ id:a4
 
 Call
 -
+#&!092030
+&#!a5.jpg,1,475,1270
+id:a5
+बस एक सही फ़ैसला और खत्म हो जाएगा कामयाबी और नाकामयाबी के बीच का सारा फ़ासला।  
+तो आगे बढ़ें और अभी Register करें 
+दुनिया के सबसे बड़े Webinar के लिए 
+Retail ka Mahakumbh
+Register करने के लिए यहाँ Click करें (link)!
+अधिक जानकारी के लिए, call!
+-
+#&!092027
+id:a6
+Bada Business Pvt. Ltd.
+In collaboration with
+    MargERP
+   Presents
+दुनिया का सबसे बड़ा Webinar for Free
+(Retail Ka Mahakumbh)
+          by
+  Dr Vivek Bindra
+
+Who must attend?
+- Retailer
+- Distributor
+- CNF
+- Direct Sales
+- Wholesaler
+- Manufacturer
+- Franchisee
+- Entrepreneurs
+
+Date: 27th September 2020
+Time: 12 PM-1:30 PM
+Register Free Now (link)
+
+For more information call
+-
