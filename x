@@ -1,3 +1,19 @@
+#&!102031
+&#!5.jpg,1,498,1270
+id:x6
+Go ahead and grab this golden opportunity now!
+
+Make One-Time Payment
+₹19,000*
+
+Get 2 Problem-Solving Courses Absolutely Free!
+
+Total Benefits Worth ₹48,500
+
+Offer Valid Till 31st October 2020
+
+To know more, Call
+-
 #&!102030
 &#!3.jpg,1,520,1270
 id:x3
