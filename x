@@ -13,6 +13,19 @@ Total Benefits Worth ₹48,500
 Offer Valid Till 31st October 2020
 
 To know more, Call
+-&#!6.jpg,1,538,1270
+id:x7
+Learn More, Grow More, and Save More with October Festive Bonanza Offers by Bada Business.
+
+Make One-Time Payment & Buy Everything About Entrepreneurship:-
+
+₹36,000*: For Entrepreneurs Only
+
+Get 10 Problem-Solving Courses Worth ₹1.5 Lakh+ FREE!!!
+
+Offer Valid Till 31st Oct’20 Only!
+
+To know more, call
 -
 #&!102030
 &#!3.jpg,1,520,1270
